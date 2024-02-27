@@ -30,5 +30,3 @@
 
 ## Notes
     -CREDIT for source code goes to GitHub user Georgeyoo and their public code "urban-octo-telegram" which can be found here: https://github.com/coding-boot-camp/urban-octo-telegram
-
-## Lisence
