@@ -1,22 +1,15 @@
 # Code Refactor - Challenge 01
 
-## USER STORY
-    AS A marketing agency
-    I WANT a code base that follows accessiblity standards
-    SO THAT our own site is optimised for search engines
 
-## Acceptance Criteria 
-    GIVEN a webpage meets accessibility standards
-    WHEN I view the source code
-    THEN I find semantic HTML elements
-    WHEN I view the Structire of the HTML elements
-    THEN I find that the elements follow a logical structure independent of styling and positioning
-    WHEN I view the image elements
-    THEN I find accessible alt attributes
-    WHEN I view the heading attribites
-    THEN they fall in sequential order
-    WHEN I view the title element
-    THEN I find a concise, descriptive title
+## DESCRIPTION
+
+    -My goal was to refactor the html of the Horiseon webpage in order to make it more accessible and optimized for search engines.  The starter code provided by Georgeyoo (see notes for credit) contained no html elements, which builds a perfectly functioning website, but it doesn't offer guidance for screen readers.  Additionally, the website is more likely to show up in top search results if it is clear what the main topics of the site are.
+
+    -I did this by adding semantic elements to the existing html code in order to make it communicate more clearly with screen readers or search engines looking for the main header, for example.  I also added alt attributions to the image elements to provide screen readers with an image description.  Finally, one of the links in the original code was broken, so I fixed that. 
+
+    -In working on this project, I was able to learn a lot about troubleshooting the terminal, Github, and my local respository.  I thought this was extremely valuable.  Being able to poke around in code with the webpage pulled up in live view was also a good lesson in understanding html better.  I still have a lot to learn, but I have a more solid grasp on the things that aren't quite clinking yet.  
 
 ## Notes
     CREDIT for source code goes to GitHub user Georgeyoo and their public code "urban-octo-telegram" which can be found here: https://github.com/coding-boot-camp/urban-octo-telegram
+
+## Lisence
